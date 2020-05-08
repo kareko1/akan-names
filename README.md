@@ -1,7 +1,6 @@
-Kareko.com
--My education experience -Projects I have worked on -A brief description of my BIO -Eplanation about my spirit animal
 
-Authors Brian
+
+Authors Brian Kareko
 
 licence Copyright (c) 2020 Brian Kareko
 
@@ -20,3 +19,6 @@ CSS
 
 MY PAGE
 Visit my webpage @https://kareko1.github.io/kareko.com/"
+HOW TO NAVIGATE TO APP
+Simply visit my github pages
+click on akan names
